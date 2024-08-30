@@ -1,0 +1,8 @@
+{
+  "clientId": "ff35d533-e7a6-4936-8e63-e05409b5b255",
+  "prompt": "What is a Sigmoid function?",
+  "promptTimestamp": "2024-08-30T13:54:40.955Z",
+  "response": "A Sigmoid function is a mathematical function that maps any real value to a value between 0 and 1. It is typically used in machine learning and artificial neural networks to introduce non-linearity into the model. The most commonly used Sigmoid function is the logistic function, which is defined as \\( f(x) = \\frac{1}{1 + e^{-x}} \\). The Sigmoid function is useful for tasks such as binary classification, where the output needs to be converted to a probability",
+  "responseTimestamp": "2024-08-30T13:54:43.236Z",
+  "source": "gpt-3.5-turbo"
+}

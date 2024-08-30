@@ -1,0 +1,8 @@
+{
+  "clientId": "be255d4d-ab17-418f-a353-17f658816666",
+  "prompt": "What is Docker?",
+  "promptTimestamp": "2024-08-30T13:46:22.044Z",
+  "response": "Docker is a popular platform that allows you to develop, package, and run applications in containers. Containers are lightweight, standalone, and executable packages that contain everything needed to run an application, including the code, runtime, system tools, libraries, and settings. Docker provides a way to isolate applications from their environment, making it easier to deploy and manage applications across different environments consistently. It is widely used in software development and deployment for its scalability, portability, and efficiency benefits.",
+  "responseTimestamp": "2024-08-30T13:46:24.113Z",
+  "source": "gpt-3.5-turbo"
+}
